@@ -1,4 +1,4 @@
-# **End-to-End Azure Data Pipeline: Netflix Project**
+# ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Netflix_2015_logo.svg) **End-to-End Azure Data Pipeline: Netflix Project**
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
