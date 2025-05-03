@@ -48,4 +48,4 @@ The Power BI dashboard presents a variety of visualizations, enabling users to i
   - Power BI reports that provide a comprehensive overview of the Netflix dataset, enabling users to explore different dimensions of the data. These reports help visualize patterns, relationships, and key attributes within the dataset, offering a holistic view of the information for better understanding and decision-making.
 
 ![Page 1 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page1.jpg)
-![Page 2 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page2.jpg)
+![Page 2 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page2 .jpg)
