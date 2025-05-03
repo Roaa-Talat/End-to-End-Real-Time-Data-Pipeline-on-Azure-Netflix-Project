@@ -1,4 +1,4 @@
-# ![Netflix Logo]([https://upload.wikimedia.org/wikipedia/commons/6/6b/Netflix_2015_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396814-netflix-mobile-application-logo&psig=AOvVaw1h69btjoPJpIe3CwbMjW5C&ust=1746340250841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCN7sTWho0DFQAAAAAdAAAAABAE)) **End-to-End Azure Data Pipeline: Netflix Project**
+# **End-to-End Azure Data Pipeline: Netflix Project**
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
@@ -28,6 +28,8 @@ The architecture diagram below showcases the entire flow of the end-to-end data 
   - *2-Silver.ipynb*: Data transformation and cleaning in the silver layer.
   - *3-LookupNotebook.ipynb*: Lookup operations for enriching data.
   - *4-Silver.ipynb*: Additional transformations and data filtering.
+  - *5-LookupNotebook.ipynb*: Logic for setting and retrieving task values using Databricks widgets and jobs.
+  - *6-FalseNotebook.ipynb*: Retrieves the task value from the previous task.
   - *8-DataCleaning.ipynb*: Data cleaning and preprocessing for Netflix dataset.
   - *7-DLTNotebook.ipynb*: Delta Live Tables pipeline setup.
   
@@ -36,15 +38,14 @@ The architecture diagram below showcases the entire flow of the end-to-end data 
   - *netflix_category.csv*: Genre categories for movies and shows.
   - *netflix_countries.csv*: Country data for content availability.
   - *netflix_titles.csv*: Original Netflix dataset with metadata.
-  - *netflix_titles_cleaned.csv*: Cleaned version of the dataset ready for analysis.
   
 - **Power BI**:
   - Power BI files that visualize Netflix data trends, including content distribution by country, genre, and user ratings.
 
 ## **Power BI Dashboard**
-The Power BI dashboard provides insightful visualizations of Netflix content trends, such as content distribution by genre and country, along with user ratings and more.
+The Power BI dashboard presents a variety of visualizations, enabling users to interact with and explore different aspects of the Netflix content data. By leveraging interactive elements, users can dive deeper into various dimensions of the dataset, exploring everything from content characteristics to distribution patterns across different attributes.
+- **Power BI**:
+  - Power BI reports that provide a comprehensive overview of the Netflix dataset, enabling users to explore different dimensions of the data. These reports help visualize patterns, relationships, and key attributes within the dataset, offering a holistic view of the information for better understanding and decision-making.
 
-Here are a couple of screenshots from the Power BI reports:
-
-- ![Page 1 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page1.jpg)
-- ![Page 2 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page2.jpg)
+![Page 1 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page1.jpg)
+![Page 2 of Power BI](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/PowerBI/Page2.jpg)
