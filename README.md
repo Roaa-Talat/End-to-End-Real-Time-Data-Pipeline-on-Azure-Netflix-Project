@@ -1,4 +1,4 @@
-# <img src="https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/Screenshot/N.png" width="30" /> **etflix: End-to-End Azure Data Pipeline Project**
+# <img src="https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/Screenshot/Netflix.png" width="30" /> **etflix: End-to-End Azure Data Pipeline Project**
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
