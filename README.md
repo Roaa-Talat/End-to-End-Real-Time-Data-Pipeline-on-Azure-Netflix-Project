@@ -1,4 +1,4 @@
-# **End-to-End Azure Data Pipeline: Netflix Project**
+# 🅽 **End-to-End Azure Data Pipeline: Netflix Project**
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
@@ -40,8 +40,8 @@ The architecture diagram below showcases the entire flow of the end-to-end data 
   - *netflix_titles.csv*: Original Netflix dataset with metadata.
   
 - **Power BI**:
-  - Power BI files that visualize Netflix data trends, including content distribution by country, genre, and user ratings.
-
+  - Power BI files visualizing Netflix data.
+  
 ## **Power BI Dashboard**
 The Power BI dashboard presents a variety of visualizations, enabling users to interact with and explore different aspects of the Netflix content data. By leveraging interactive elements, users can dive deeper into various dimensions of the dataset, exploring everything from content characteristics to distribution patterns across different attributes.
 - **Power BI**:
