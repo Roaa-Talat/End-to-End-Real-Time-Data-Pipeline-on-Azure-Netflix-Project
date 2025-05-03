@@ -1,4 +1,4 @@
-# ![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Netflix_2015_logo.svg) **End-to-End Azure Data Pipeline: Netflix Project**
+# ![Netflix Logo]([https://upload.wikimedia.org/wikipedia/commons/6/6b/Netflix_2015_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F17396814-netflix-mobile-application-logo&psig=AOvVaw1h69btjoPJpIe3CwbMjW5C&ust=1746340250841000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCN7sTWho0DFQAAAAAdAAAAABAE)) **End-to-End Azure Data Pipeline: Netflix Project**
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
