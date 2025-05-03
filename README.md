@@ -2,13 +2,18 @@
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
+- [Architecture](#architecture)
 - [Key Technologies Used](#key-technologies-used)
 - [Project Structure](#project-structure)
-- [Architecture](#architecture)
 - [Power BI Dashboard](#power-bi-dashboard)
 
 ## **Project Overview**
 This project demonstrates the end-to-end implementation of a **real-time data pipeline** using **Azure Data Factory**, **Databricks**, and **Power BI**. The project processes the **Netflix dataset**, integrating raw data, applying data transformations, and enabling real-time analytics using Apache Spark and Databricks Delta Live Tables.
+
+## **Architecture**
+The architecture diagram below showcases the entire flow of the end-to-end data pipeline, starting from data ingestion to real-time processing and visualization.
+
+![Architecture Diagram](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/Architecture.png)
 
 ## **Key Technologies Used**
 - **Azure Data Factory**: For orchestrating ETL pipelines.
@@ -16,7 +21,6 @@ This project demonstrates the end-to-end implementation of a **real-time data pi
 - **PySpark**: For handling large-scale data processing.
 - **Databricks Delta Live Tables**: For managing data pipelines.
 - **Power BI**: For creating an interactive dashboard.
-- **Apache Spark Streaming**: For real-time data processing.
 
 ## **Project Structure**
 - **Notebooks**: 
@@ -26,7 +30,6 @@ This project demonstrates the end-to-end implementation of a **real-time data pi
   - *4-Silver.ipynb*: Additional transformations and data filtering.
   - *8-DataCleaning.ipynb*: Data cleaning and preprocessing for Netflix dataset.
   - *7-DLTNotebook.ipynb*: Delta Live Tables pipeline setup.
-  - *... (and more notebooks depending on your pipeline)*
   
 - **Data**:
   - *netflix_cast.csv*: Cast information for Netflix titles.
@@ -37,11 +40,6 @@ This project demonstrates the end-to-end implementation of a **real-time data pi
   
 - **Power BI**:
   - Power BI files that visualize Netflix data trends, including content distribution by country, genre, and user ratings.
-
-## **Architecture**
-The architecture diagram below showcases the entire flow of the end-to-end data pipeline, starting from data ingestion to real-time processing and visualization.
-
-![Architecture Diagram](https://github.com/Roaa-Talat/End-to-End-Real-Time-Data-Pipeline-on-Azure-Netflix-Project/blob/main/Architecture.png)
 
 ## **Power BI Dashboard**
 The Power BI dashboard provides insightful visualizations of Netflix content trends, such as content distribution by genre and country, along with user ratings and more.
